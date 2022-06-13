@@ -8,6 +8,6 @@ Under development.
 ```
 
 ## Usage
-> conda create --name <space_invaders> --file <env.yml>
+> conda create --name <snake_game> --file <env.yml>
 
 > python <main.py>
